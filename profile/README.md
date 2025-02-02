@@ -21,8 +21,8 @@
 <references />
 
 == Ссылки ==
-* [https://github.com/SENATOROVAI GitHub-репозиторий организации «SENATOROVAI»]
-* [https://t.me/RuslanSenatorov Телеграм-канал «RuslanSenatorov»]
-* [https://www.youtube.com/@SENATOROV Канал «SENATOROV» на YouTube]
+* https://github.com/SENATOROVAI GitHub-репозиторий организации «SENATOROVAI»
+* https://t.me/RuslanSenatorov Телеграм-канал «RuslanSenatorov»
+* https://www.youtube.com/@SENATOROV Канал «SENATOROV» на YouTube
 
-{{stub}}
+
