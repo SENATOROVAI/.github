@@ -1,9 +1,3 @@
-SENATOROVAI - международная некоммерческая организация, занимающаяся исследованиями и разработками в области ИИ. Работаем над обучением нейросетей, обработкой данных и применением ИИ в науке и технологиях.
-
----
-
-
-Руслан Сенаторов – CEO и идейный вдохновитель некоммерческой организации **SENATOROVAI**.
 <img width="400" height="auto" alt="изображение" src="https://github.com/user-attachments/assets/298c692a-6c99-41ff-aa56-225e5caf2433" />
 <img width="400" height="auto" alt="изображение" src="https://github.com/user-attachments/assets/9377e52e-97cb-47e2-b991-55750e4b33f1" />
 <img width="400" height="auto" alt="изображение" src="https://github.com/user-attachments/assets/7053c54e-71f6-4ee5-8a6d-936e95e58544" />
