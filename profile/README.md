@@ -1,5 +1,5 @@
-<img width="2800" height="1600" alt="изображение" src="https://github.com/user-attachments/assets/21bf5cbd-7578-4f3c-af4b-b67b238edb17" />
 
+![photo_2026-03-01_23-16-24 2](https://github.com/user-attachments/assets/82f53e60-ad8f-4e0c-9532-5f1756894648)
 
 ---
 
