@@ -1,4 +1,5 @@
-<img width="2800" height="1600" alt="школа1" src="https://github.com/user-attachments/assets/f0d2b3bf-14c1-4d42-8ff8-57988042dfcb" />
+<img width="2800" height="1600" alt="изображение" src="https://github.com/user-attachments/assets/21bf5cbd-7578-4f3c-af4b-b67b238edb17" />
+
 
 ---
 
