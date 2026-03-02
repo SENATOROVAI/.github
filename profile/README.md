@@ -1,5 +1,6 @@
 
-![photo_2026-03-01_23-16-24 2](https://github.com/user-attachments/assets/82f53e60-ad8f-4e0c-9532-5f1756894648)
+<img width="1536" height="1024" alt="image_2026-03-02_20-31-03" src="https://github.com/user-attachments/assets/7843dc65-ac03-48eb-9eb3-f5f781567ee0" />
+
 
 ---
 
