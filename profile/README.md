@@ -1,116 +1,123 @@
+![SENATOROVAI](https://github.com/user-attachments/assets/2176381e-baab-4711-888c-31da58b62846)
 
-![photo_2026-03-05_03-28-57(1)](https://github.com/user-attachments/assets/2176381e-baab-4711-888c-31da58b62846)
+<h1 align="center">SENATOROVAI</h1>
 
+<p align="center">
+  Школа Data Science Руслана Сенаторова: Python, Machine Learning, математика,
+  аналитика данных и практическая инженерная подготовка.
+</p>
 
----
-
-**SENATOROVAI** — это **международная компания по разработке и внедрению машинного обучения, Data Science и анализа данных**, основанная Русланом Сенаторовым — практикующим специалистом с большим опытом в **программировании**, **преподавании** и **Data Science**.
-
-В 2025 году Руслан Сенаторов вызвал значительный **резонанс в профессиональном сообществе** благодаря новой системе обучения в области Data Science. 
-Вместо традиционного "сверху вниз через теорию" мы начинаем с готовых решений в scikit-learn и разбираем их "изнутри",чтобы понять принципы работы и математику которая лежит в их основе с полного нуля.Это позволяет значительно сократить время обучения.
-
-В основе SENATOROVAI — практика, коммерческие навыки и **фундаментальная математика**, которая позволяет студентам **понимать, как и почему работают современные модели машинного обучения**.
-
----
-
-## **Уникальная методика обучения**
-
-SENATOROVAI выделяется **уникальной образовательной методикой**, которая принципиально отличается от классического подхода.
-
-**Машинное обучение изучается через реверс-инжиниринг математики библиотеки `scikit-learn`**:
-
-* студенты берут рабочую ML-модель из `sklearn`;
-* разбирают математические принципы её работы;
-* восстанавливают алгоритмы пошагово;
-* реализуют ключевые части самостоятельно;
-* понимают ограничения и область применения модели.
-
-Этот подход превращает «чёрный ящик» в понятную систему, позволяя глубоко понять, как машины обучаются с помощью математики.
+<p align="center">
+  <a href="https://senatorovai.com">
+    <img src="https://img.shields.io/badge/Website-senatorovai.com-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://github.com/SENATOROVAI">
+    <img src="https://img.shields.io/badge/GitHub-SENATOROVAI-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://github.com/SENATOROVAI?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-100%2B_public-2563EB?style=flat-square&logo=github&logoColor=white" alt="Repositories" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Data_Science_%26_ML-0F766E?style=flat-square" alt="Focus" />
+</p>
 
 ---
 
-## **Фундаментальная математика через практику**
+## О школе
 
-В SENATOROVAI математика изучается **через работу с реальными моделями**:
+**SENATOROVAI** — образовательная и исследовательская экосистема вокруг Data Science, Machine Learning, математической подготовки и практической разработки на Python.
 
-* линейная алгебра — через матрицы признаков и разложения;
-* статистика — через функции потерь, оценивание и регуляризацию;
-* оптимизация — через процедуры обучения моделей.
+Мы учим не только запускать готовые библиотеки, но и понимать, как они устроены: от линейной алгебры, статистики и оптимизации до реализации ML-алгоритмов, работы с данными, оформления GitHub-портфолио и подготовки коммерческих проектов.
 
-Такой фундамент позволяет студентам **осознанно разбирать сложные материалы**, включая:
-
-* курсы и конспекты **Школы анализа данных (ШАД)**;
-* соревнования и ноутбуки на **Kaggle**;
-* научные статьи и препринты с **arXiv**.
+Главная идея обучения: **сначала рабочая модель и понятная задача, затем разбор математики, кода, ограничений и инженерных решений внутри**.
 
 ---
 
-## **Практика и коммерческий подход с первого дня**
+## Направления
 
-С первого дня студенты работают в **GitHub-репозиториях организации SENATOROVAI**:
-
-👉 [https://github.com/SENATOROVAI](https://github.com/SENATOROVAI)
-
-Они осваивают:
-
-* Git и GitHub как рабочий инструмент;
-* структуру коммерческих репозиториев;
-* стандарты оформления кода и документации;
-* командную работу и проектное мышление.
+| Направление | Что изучаем | Практический результат |
+|---|---|---|
+| Data Science Core | Python, pandas, NumPy, EDA, визуализация, статистика | Чистые notebooks, отчеты, портфолио и reproducible analysis |
+| Machine Learning | sklearn, supervised learning, validation, metrics, feature engineering | Модели, baseline-подход, эксперименты и сравнение качества |
+| ML from Scratch | линейная регрессия, оптимизация, solver algorithms, регуляризация | Понимание математики и реализация ключевых частей алгоритмов |
+| Math for DS | линейная алгебра, вероятность, статистика, оптимизация | Математическая база для ML и Deep Learning |
+| Engineering Practice | Git, GitHub, README, project structure, tests, code quality | Репозитории, которые можно показывать работодателю или заказчику |
+| Applied Projects | Kaggle, учебные кейсы, коммерческие задачи, исследования | Практика в формате реальных deliverables |
 
 ---
 
-## **Коммерческие проекты и фриланс**
+## Ключевые репозитории
 
-Студенты:
-
-* выполняют **коммерческие проекты**;
-* работают с реальными задачами Data Science и аналитики;
-* берут **фриланс-заказы** под сопровождением школы;
-* формируют портфолио реальных проектов.
-
-Это позволяет получать **первый коммерческий опыт ещё во время обучения**.
-
----
-
-## **Преподаватель с многолетним опытом**
-
-**Руслан Сенаторов** — преподаватель с большим практическим опытом, который **много лет преподавал математику, программирование и анализ данных**.
-
-Он сочетает:
-
-* профессиональный опыт программирования;
-* глубокое понимание Python, ML и алгоритмов;
-* практическое применение Data Science и аналитики;
-* многолетнее преподавание и наставничество.
-
-В SENATOROVAI сложные концепции объясняются **через реальные модели и код**, а не через абстрактные формулы.
+| Репозиторий | Описание | Темы |
+|---|---|---|
+| [Data-Science-For-Beginners-from-scratch-course](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-course) | Основной курс по Data Science с Python, математикой, ML и практическими заданиями. | Python, DS, ML, statistics |
+| [mathematics-for-data-science](https://github.com/SENATOROVAI/mathematics-for-data-science) | Roadmap по математике для Data Science, Machine Learning и Deep Learning. | linear algebra, probability, optimization |
+| [python-open-source-standards-course](https://github.com/SENATOROVAI/python-open-source-standards-course) | Стандарты оформления Python-проектов, PEP 8, документация, линтеры, pre-commit и GitHub Actions. | Python, open source, code quality |
+| [fastapi-telegram-bot-vps-deployment-course](https://github.com/SENATOROVAI/fastapi-telegram-bot-vps-deployment-course) | Практика backend deployment: FastAPI, VPS, Nginx, systemd, SSL и production-подход. | FastAPI, deployment, backend |
+| [QR-decomposition-solver-course](https://github.com/SENATOROVAI/QR-decomposition-solver-course) | QR decomposition и численная линейная алгебра для ML-задач. | linear algebra, solver, Python |
+| [stochastic-average-gradient-sag-saga-solver-course](https://github.com/SENATOROVAI/stochastic-average-gradient-sag-saga-solver-course) | SAG/SAGA optimization solvers и large-scale ML optimization. | optimization, solver, ML |
+| [gradient-descent-sgd-solver-course](https://github.com/SENATOROVAI/gradient-descent-sgd-solver-course) | Gradient Descent / SGD через практику и реализацию solver-подходов. | optimization, neural networks, ML |
+| [school-data-science-bootcamp-SenatorovAI](https://github.com/SENATOROVAI/school-data-science-bootcamp-SenatorovAI) | Веб-представление школы и bootcamp-направления. | HTML, bootcamp, DS |
 
 ---
 
-## **Помощь с трудоустройством и собеседованиями**
+## Стек
 
-Школа помогает:
-
-* оформить резюме и GitHub-портфолио;
-* подготовиться к собеседованиям;
-* разобраться в требованиях рынка;
-* выбрать карьерное направление — работа, фриланс, исследовательская деятельность.
+<p>
+  <img src="https://img.shields.io/badge/Python-Data_Science-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Jupyter-Notebooks-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/NumPy-Numerics-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-EDA-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/scikit--learn-ML-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/FastAPI-Backend-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/MATLAB-Modeling-0076A8?style=for-the-badge" alt="MATLAB" />
+  <img src="https://img.shields.io/badge/Java-Coursework-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C%2B%2B-Systems-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+</p>
 
 ---
 
-## **Что изучают в SENATOROVAI**
+## Как устроено обучение
 
-Программы школы включают:
+1. **Практический вход:** студент видит рабочую модель, понятную задачу и результат.
+2. **Разбор изнутри:** разбираются данные, признаки, метрики, ошибки и ограничения.
+3. **Математическая основа:** алгоритмы связываются с линейной алгеброй, статистикой и оптимизацией.
+4. **Реализация:** ключевые части моделей и solver-подходов воспроизводятся вручную.
+5. **Портфолио:** работа оформляется как GitHub-репозиторий с README, структурой, кодом и выводами.
 
-* Python для Data Science и аналитики;
-* классическое и современное машинное обучение;
-* линейную алгебру и статистику через практику;
-* оптимизацию и обучение моделей;
-* аналитику данных и визуализацию;
-* чтение и разбор сложных материалов ШАД, Kaggle, arXiv.
+---
 
-Все знания закрепляются **практикой и коммерческими проектами**.
+## Для студентов
+
+В организации собраны учебные и практические репозитории, которые помогают:
+
+- изучать Python, Data Science и Machine Learning на практике;
+- собирать собственное GitHub-портфолио;
+- готовиться к собеседованиям и проектной работе;
+- разбирать сложные темы через код, notebooks и математические объяснения;
+- переходить от учебных задач к коммерческому стилю оформления проектов.
+
+---
+
+## Для работодателей и заказчиков
+
+GitHub организации показывает, как студенты и участники SENATOROVAI работают с кодом, данными и документацией:
+
+- публичные учебные проекты и практические задания;
+- материалы по математике, ML и оптимизации;
+- репозитории с Python-практикой и инженерными стандартами;
+- подготовка к оформлению портфолио, README и проектных deliverables.
+
+---
+
+## Быстрый старт
+
+Начать лучше с этих материалов:
+
+1. [Data Science From Scratch Course](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-course)
+2. [Mathematics for Data Science](https://github.com/SENATOROVAI/mathematics-for-data-science)
+3. [Python Open Source Standards](https://github.com/SENATOROVAI/python-open-source-standards-course)
+4. [Solver Courses](https://github.com/SENATOROVAI?tab=repositories&q=solver-course&type=&language=&sort=)
 
 ---
 
@@ -118,8 +125,9 @@ SENATOROVAI выделяется **уникальной образователь
 
 <a href="https://www.star-history.com/?repos=SENATOROVAI%2FData-Science-For-Beginners-from-scratch-course&type=date&logscale=&legend=top-left">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=SENATOROVAI/Data-Science-For-Beginners-from-scratch-course&type=date&theme=dark&logscale&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=SENATOROVAI/Data-Science-For-Beginners-from-scratch-course&type=date&logscale&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=SENATOROVAI/Data-Science-For-Beginners-from-scratch-course&type=date&logscale&legend=top-left" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=SENATOROVAI/Data-Science-For-Beginners-from-scratch-course&type=date&theme=dark&logscale&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=SENATOROVAI/Data-Science-For-Beginners-from-scratch-course&type=date&logscale&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=SENATOROVAI/Data-Science-For-Beginners-from-scratch-course&type=date&logscale&legend=top-left" />
  </picture>
 </a>
+
