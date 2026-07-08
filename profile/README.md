@@ -70,14 +70,4 @@ Python for Data Science · classical and modern ML · linear algebra and statist
 
 ---
 
-## Star History
-
-<a href="https://www.star-history.com/?repos=SENATOROVAI%2FData-Science-For-Beginners-from-scratch-course&type=date&logscale=&legend=top-left">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=SENATOROVAI/Data-Science-For-Beginners-from-scratch-course&type=date&theme=dark&logscale&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=SENATOROVAI/Data-Science-For-Beginners-from-scratch-course&type=date&logscale&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=SENATOROVAI/Data-Science-For-Beginners-from-scratch-course&type=date&logscale&legend=top-left" />
- </picture>
-</a>
-
 **[senatorovai.com](https://senatorovai.com/)** · [github.com/SENATOROVAI](https://github.com/SENATOROVAI) · [t.me/RuslanSenatorov](https://t.me/RuslanSenatorov)
