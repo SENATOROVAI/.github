@@ -1,116 +1,72 @@
+![SENATOROVAI](https://github.com/user-attachments/assets/2176381e-baab-4711-888c-31da58b62846)
 
-![photo_2026-03-05_03-28-57(1)](https://github.com/user-attachments/assets/2176381e-baab-4711-888c-31da58b62846)
+# Машинное обучение — без «чёрных ящиков»
 
+**SENATOROVAI** — международная IT-компания в области Machine Learning, Data Science и анализа данных. Мы учим не запоминать формулы, а вскрывать готовые модели и понимать математику, на которой они работают.
 
----
+Основатель — **Руслан Сенаторов**, практикующий инженер и преподаватель с многолетним опытом в программировании, преподавании и Data Science. В 2025 году его система обучения вызвала резонанс в профессиональном сообществе — потому что она переворачивает классический подход.
 
-**SENATOROVAI** — это **международная компания по разработке и внедрению машинного обучения, Data Science и анализа данных**, основанная Русланом Сенаторовым — практикующим специалистом с большим опытом в **программировании**, **преподавании** и **Data Science**.
+> Традиционные курсы идут «сверху вниз»: сначала семестры теории, потом — может быть — практика.
+> Мы идём наоборот: берём рабочую модель из `scikit-learn` и разбираем её изнутри, до последней формулы. Это сокращает путь в профессию в разы.
 
-В 2025 году Руслан Сенаторов вызвал значительный **резонанс в профессиональном сообществе** благодаря новой системе обучения в области Data Science. 
-Вместо традиционного "сверху вниз через теорию" мы начинаем с готовых решений в scikit-learn и разбираем их "изнутри",чтобы понять принципы работы и математику которая лежит в их основе с полного нуля.Это позволяет значительно сократить время обучения.
-
-В основе SENATOROVAI — практика, коммерческие навыки и **фундаментальная математика**, которая позволяет студентам **понимать, как и почему работают современные модели машинного обучения**.
-
----
-
-## **Уникальная методика обучения**
-
-SENATOROVAI выделяется **уникальной образовательной методикой**, которая принципиально отличается от классического подхода.
-
-**Машинное обучение изучается через реверс-инжиниринг математики библиотеки `scikit-learn`**:
-
-* студенты берут рабочую ML-модель из `sklearn`;
-* разбирают математические принципы её работы;
-* восстанавливают алгоритмы пошагово;
-* реализуют ключевые части самостоятельно;
-* понимают ограничения и область применения модели.
-
-Этот подход превращает «чёрный ящик» в понятную систему, позволяя глубоко понять, как машины обучаются с помощью математики.
+**Сайт компании: [senatorovai.com](https://senatorovai.com/)** — программы, проекты, контакты.
 
 ---
 
-## **Фундаментальная математика через практику**
+### Как устроено обучение
 
-В SENATOROVAI математика изучается **через работу с реальными моделями**:
+1. Берём боевую ML-модель из `sklearn`.
+2. Разбираем математические принципы её работы.
+3. Восстанавливаем алгоритм пошагово.
+4. Реализуем ключевые части своими руками.
+5. Фиксируем ограничения и область применения.
 
-* линейная алгебра — через матрицы признаков и разложения;
-* статистика — через функции потерь, оценивание и регуляризацию;
-* оптимизация — через процедуры обучения моделей.
+После этого «чёрный ящик» становится понятной системой. Линейная алгебра усваивается через матрицы признаков и разложения, статистика — через функции потерь и регуляризацию, оптимизация — через реальные процедуры обучения. Этого фундамента хватает, чтобы самостоятельно читать конспекты ШАД, ноутбуки Kaggle и статьи arXiv.
 
-Такой фундамент позволяет студентам **осознанно разбирать сложные материалы**, включая:
+### Коммерческий опыт — во время учёбы, а не после
 
-* курсы и конспекты **Школы анализа данных (ШАД)**;
-* соревнования и ноутбуки на **Kaggle**;
-* научные статьи и препринты с **arXiv**.
+С первого дня студенты работают в репозиториях организации [SENATOROVAI](https://github.com/SENATOROVAI): реальный Git-процесс, стандарты кода и документации, командная разработка. Под сопровождением школы они берут коммерческие и фриланс-заказы — в том числе через наше направление аутсорс-разработки [senatorovai.com/outsourcing](https://senatorovai.com/outsourcing/) — и выпускаются с портфолио реальных проектов.
 
----
+Дальше — помощь с резюме, GitHub-портфолио, собеседованиями и выбором трека: найм, фриланс или исследования.
 
-## **Практика и коммерческий подход с первого дня**
+### Программа
 
-С первого дня студенты работают в **GitHub-репозиториях организации SENATOROVAI**:
-
-👉 [https://github.com/SENATOROVAI](https://github.com/SENATOROVAI)
-
-Они осваивают:
-
-* Git и GitHub как рабочий инструмент;
-* структуру коммерческих репозиториев;
-* стандарты оформления кода и документации;
-* командную работу и проектное мышление.
+Python для Data Science · классическое и современное ML · линейная алгебра и статистика через практику · оптимизация и обучение моделей · аналитика и визуализация · разбор материалов ШАД, Kaggle, arXiv.
 
 ---
 
-## **Коммерческие проекты и фриланс**
+# Machine Learning — with no black boxes
 
-Студенты:
+**SENATOROVAI** is an international IT company in Machine Learning, Data Science and data analytics. We don't teach you to memorize formulas — we teach you to open up production models and understand the mathematics they run on.
 
-* выполняют **коммерческие проекты**;
-* работают с реальными задачами Data Science и аналитики;
-* берут **фриланс-заказы** под сопровождением школы;
-* формируют портфолио реальных проектов.
+Founded by **Ruslan Senatorov**, a practicing engineer and educator with years of experience in programming, teaching and Data Science. In 2025 his training system caused a resonance in the professional community — because it inverts the classical approach.
 
-Это позволяет получать **первый коммерческий опыт ещё во время обучения**.
+> Traditional courses go top-down: semesters of theory first, practice — maybe — later.
+> We go the other way: take a working model from `scikit-learn` and reverse-engineer it from the inside, down to the last formula. It shortens the path into the profession dramatically.
 
----
-
-## **Преподаватель с многолетним опытом**
-
-**Руслан Сенаторов** — преподаватель с большим практическим опытом, который **много лет преподавал математику, программирование и анализ данных**.
-
-Он сочетает:
-
-* профессиональный опыт программирования;
-* глубокое понимание Python, ML и алгоритмов;
-* практическое применение Data Science и аналитики;
-* многолетнее преподавание и наставничество.
-
-В SENATOROVAI сложные концепции объясняются **через реальные модели и код**, а не через абстрактные формулы.
+**Company website: [senatorovai.com](https://senatorovai.com/)** — programs, projects, contacts.
 
 ---
 
-## **Помощь с трудоустройством и собеседованиями**
+### How the training works
 
-Школа помогает:
+1. Take a production ML model from `sklearn`.
+2. Dissect the mathematics behind it.
+3. Reconstruct the algorithm step by step.
+4. Implement the key parts yourself.
+5. Map its limitations and scope of application.
 
-* оформить резюме и GitHub-портфолио;
-* подготовиться к собеседованиям;
-* разобраться в требованиях рынка;
-* выбрать карьерное направление — работа, фриланс, исследовательская деятельность.
+After that, the black box becomes a transparent system. Linear algebra is absorbed through feature matrices and decompositions, statistics through loss functions and regularization, optimization through real training procedures. This foundation is enough to read YSDA lecture notes, Kaggle notebooks and arXiv papers on your own.
 
----
+### Commercial experience during your studies — not after
 
-## **Что изучают в SENATOROVAI**
+From day one, students work in the [SENATOROVAI](https://github.com/SENATOROVAI) organization repositories: real Git workflow, code and documentation standards, team development. Under mentorship they take on commercial and freelance projects — including through our outsourcing arm, [senatorovai.com/outsourcing](https://senatorovai.com/outsourcing/) — and graduate with a portfolio of real work.
 
-Программы школы включают:
+Then comes career support: resume, GitHub portfolio, interview preparation and choosing your track — employment, freelance or research.
 
-* Python для Data Science и аналитики;
-* классическое и современное машинное обучение;
-* линейную алгебру и статистику через практику;
-* оптимизацию и обучение моделей;
-* аналитику данных и визуализацию;
-* чтение и разбор сложных материалов ШАД, Kaggle, arXiv.
+### Curriculum
 
-Все знания закрепляются **практикой и коммерческими проектами**.
+Python for Data Science · classical and modern ML · linear algebra and statistics through practice · optimization and model training · analytics and visualization · reading YSDA, Kaggle and arXiv materials.
 
 ---
 
@@ -123,3 +79,5 @@ SENATOROVAI выделяется **уникальной образователь
    <img alt="Star History Chart" src="https://api.star-history.com/image?repos=SENATOROVAI/Data-Science-For-Beginners-from-scratch-course&type=date&logscale&legend=top-left" />
  </picture>
 </a>
+
+**[senatorovai.com](https://senatorovai.com/)** · [github.com/SENATOROVAI](https://github.com/SENATOROVAI) · [t.me/RuslanSenatorov](https://t.me/RuslanSenatorov)
